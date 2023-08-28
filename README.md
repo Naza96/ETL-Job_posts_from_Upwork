@@ -11,7 +11,7 @@ Welcome to the Upwork Job Posts Analysis repository! Here, you'll find the ETL (
 
 ## Getting Started
 
-To analyse this project and analyze Upwork job posts, follow these steps:
+To analyse this project, follow these steps:
 
 - Open the provided Jupyter notebook to access the script for web scraping.
 - Ensure you have the required packages installed. If not, refer to the package installation section in the notebook.
