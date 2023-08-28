@@ -7,7 +7,8 @@ Welcome to the Upwork Job Posts Analysis repository! Here, you'll find the ETL (
 
 ## Overview
 
-- **Watch the Video**: For a quick and summarized overview of how this project was developed, be sure to check out the accompanying video.
+- **Watch the Video**: For a quick and summarized overview of how this project was developed, be sure to check out the accompanying video, link below:
+  https://youtu.be/WpTx9of72Es 
 
 ## Getting Started
 
